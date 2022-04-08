@@ -1,4 +1,4 @@
-package chap01;
+package chap01_Exercise;
 
 public class ExerciseMax {
 	

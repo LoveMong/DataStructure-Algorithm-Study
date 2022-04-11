@@ -29,7 +29,7 @@ public class TriangleLB {
 				
 				System.out.print("*");
 				System.out.print(j);
-				
+								
 			}
 			
 			System.out.println();
